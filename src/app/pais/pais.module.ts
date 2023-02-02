@@ -31,7 +31,7 @@ import { PaisInputComponent } from './components/pais-input/pais-input.component
     CommonModule,
     FormsModule,
     HttpClientModule,
-    RouterModule
+    RouterModule,
   ]
 })
 
